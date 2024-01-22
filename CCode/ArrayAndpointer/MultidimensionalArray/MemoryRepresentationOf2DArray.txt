@@ -1,0 +1,14 @@
+* Memmory Representation of 2D Array:-
+					1) A 2D array can be visualized as a plain which has row and columns.
+					2) Though mulyi-dimensional arrays are visualized as in thsi way they are actually stored in memory which is linear.(i.e linear)
+					3) Hence a multi-dimension array is to be stored in one dimension.There are two ways to store mulyi-dimensional array in memory:-
+							
+							1) Row major order of storage.
+							2) Column major order of storage.
+
+		1) Row major:
+				1) In row major order of storage the element of an array are stored row-wise.
+				2) In C progmming language multidimensional arrays are stored in memory by using roe major format.
+		2) Column major:
+				1) In column major the element of an array are stored column-wise.
+				2) Column major is used in languages likes FORTRAN,Motlab.
